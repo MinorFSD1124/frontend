@@ -1,0 +1,20 @@
+div.item {
+  border: 1px solid #6667ab;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+span.in-progress {
+  background-color: orange;
+  font-weight: bold;
+}
+
+span.done {
+  background-color: green;
+  font-weight: bold;
+}
+
+span.to-do {
+  background-color: grey;
+  font-weight: bold;
+}
